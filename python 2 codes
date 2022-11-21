@@ -1,0 +1,13 @@
+1st code:
+age=int(input("enter your age :"))
+if age >= 18
+       print("you are eligible for voting")
+else:
+       print("you are not eligible for voting")
+       
+2nd code:
+no.=int(input("enter the number:"))
+if no.>0
+       print("the number is positive")
+else:
+       print("the number is negative")
